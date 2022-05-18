@@ -1,8 +1,8 @@
-# About Me
+
 Hi 👋 My name is Nihar Hegde
 ============================
 
-Web Developer
+I am a Web Developer
 -------------
 
 I've been learning to code for about 2 years and currently I am a computer science student
