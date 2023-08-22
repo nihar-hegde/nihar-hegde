@@ -82,8 +82,6 @@
 
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nihar-hegde/count.svg?"  />
-</div>
+
 
 ###
