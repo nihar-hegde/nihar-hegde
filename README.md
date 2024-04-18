@@ -18,10 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nihar-hegde.nihar-hegde&"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -32,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Nihar Hegde from Bengaluru, India<br><br>- 📚 I'm currently learning NextJS and MonoRepos.<br>- ⚡ In my free time I like to Play games.</p>
+<p align="left">I'm Nihar Hegde from Bengaluru, India<br><br>- 📚 I'm Web Dev.<br></p>
 
 ###
 
